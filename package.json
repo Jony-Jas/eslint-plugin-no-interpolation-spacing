@@ -1,13 +1,32 @@
 {
-    "name": "eslint-plugin-no-interpolation-spacing",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC"
+  "name": "eslint-plugin-no-interpolation-spacing",
+  "version": "1.0.0",
+  "description": "An ESLint plugin to enforce no spacing between Angular-style interpolations and HTML elements.",
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "eslint plugin",
+    "angular",
+    "interpolation",
+    "spacing",
+    "html",
+    "lint",
+    "angular template eslint",
+    "angular interpolation eslint"
+  ],
+  "author": "Jony Jas",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jony-Jas/eslint-plugin-no-interpolation-spacing.git"
+  },
+  "homepage": "https://github.com/Jony-Jas/eslint-plugin-no-interpolation-spacing#readme",
+  "peerDependencies": {
+    "eslint": "^8.0.0"
+  },
+  "devDependencies": {
+    "@html-eslint/eslint-plugin": "^1.0.0",
+    "@html-eslint/parser": "^1.0.0",
+    "eslint": "^8.0.0"
   }
-  
+}
