@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-no-interpolation-spacing",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "An ESLint plugin to enforce no spacing between Angular-style interpolations and HTML elements.",
   "main": "index.js",
   "keywords": [
